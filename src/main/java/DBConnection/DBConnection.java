@@ -10,10 +10,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-/**
- *
- * @author nitro 5
- */
+
 public class DBConnection {
     
     Connection connection = null;
